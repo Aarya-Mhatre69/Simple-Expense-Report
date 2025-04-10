@@ -24,5 +24,5 @@ A **simple and elegant desktop application** for tracking your expenses, built u
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Aarya-Mhatre69/expense-tracker.git
-   cd expense-tracker
+   git clone https://github.com/Aarya-Mhatre69/Simple-Expense-Report.git
+   cd Simple-Expense-Report
